@@ -1,0 +1,15 @@
+.card-text{
+           color:green
+           font-weight :800;
+}
+.card-title{
+            color:red
+            font-weight :900;
+
+}
+
+.search {
+     position: absolute;
+     top: 355px;
+     left: 575px;
+}
